@@ -2,7 +2,7 @@
 
 Quick Dictionary access of your UserDefaults
 
-Part of **SwiftMVP**: opionated components for building apps really fast.
+Part of **SwiftMVP**: opinionated components for building apps really fast.
 
 # SwiftMVP key tenants:
 1. Prioritize Speed of development & stability
