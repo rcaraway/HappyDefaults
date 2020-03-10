@@ -1,5 +1,5 @@
 import XCTest
-@testable import BasicDefaults
+@testable import HappyDefaults
 
 final class BasicDefaultsTests: XCTestCase {
     func testExample() {
